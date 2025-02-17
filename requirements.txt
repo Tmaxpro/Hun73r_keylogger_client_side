@@ -1,0 +1,13 @@
+certifi==2025.1.31
+cffi==1.17.1
+charset-normalizer==3.4.1
+decouple==0.0.7
+evdev==1.9.0
+idna==3.10
+pillow==11.1.0
+pycparser==2.22
+pynput==1.7.7
+python-xlib==0.33
+requests==2.32.3
+six==1.17.0
+urllib3==2.3.0
